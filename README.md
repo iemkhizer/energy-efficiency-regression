@@ -32,7 +32,7 @@ A. Tsanas & A. Xifara (2012), *Energy and Buildings* 49, 560–567.
 ## Progress
 
 - [x] Part 1: Data preparation & EDA
-- [ ] Part 2: Classical regression models (Linear, Ridge, Lasso)
+- [x] Part 2: Classical regression models (Linear, Ridge, Lasso)
 - [ ] Part 3: Neural network regression + MLflow + GridSearchCV
 - [ ] Part 4: Deployment
 
