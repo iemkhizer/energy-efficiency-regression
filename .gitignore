@@ -11,6 +11,7 @@ env/
 # MLflow (local tracking data)
 mlruns/
 mlartifacts/
+mlflow.db
 
 # Environment / secrets
 .env
