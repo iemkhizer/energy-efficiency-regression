@@ -25,7 +25,7 @@ A. Tsanas & A. Xifara (2012), *Energy and Buildings* 49, 560–567.
 |---|---|---|---|---|
 | Linear Regression | 0.921 | 0.895 | 8.25 | 9.73 |
 | Ridge Regression | 0.920 | 0.894 | 8.35 | 9.79 |
-| Lasso Regression | 0.902 | 0.884 | 10.19 | 10.80 |
+| Lasso Regression | 0.902 | 0.883 | 10.19 | 10.80 |
 | Neural Network (64-32, lr 0.001) | 0.996 | 0.985 | 0.42 | 1.41 |
 | **Neural Network, GridSearchCV best (64-32, lr 0.01)** | **0.995** | **0.989** | **0.49** | **1.03** |
 
